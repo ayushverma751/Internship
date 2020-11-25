@@ -1,0 +1,55 @@
+body, html{
+    height: 100%;
+    margin: 0;
+}
+#banner_image
+{
+    padding-top:75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(wecare.jpg) no-repeat center center;
+    background-size: cover;
+    margin-top: 51px;
+    height: 100%;
+}
+footer
+{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%; 
+    margin-top: 10px;
+}
+#x123
+{
+    color: black;
+    font-size: 25px;
+    font-family:cursive;
+}
+#x321
+{
+    color: black;
+    font-size: 25px;
+    font-family:cursive;
+}
+.x123
+{
+    color: black;
+    font-size: 25px;
+    font-family:cursive;
+}
+#x555
+{
+    color: red;
+    text-align: left;
+}
+#x551
+{
+    text-align: left;
+}
+#x552
+{
+    text-align: left;
+}
